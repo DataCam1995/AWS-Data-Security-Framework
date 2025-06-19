@@ -15,3 +15,4 @@
     }
   ]
 }
+Add IAM read-only policy for S3 access
